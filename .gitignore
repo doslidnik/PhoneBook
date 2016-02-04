@@ -28,5 +28,5 @@
 *.app
 
 #Project c++
-/PhoneBook/Debug/
+**/Debug
 *.sdf
