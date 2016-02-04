@@ -27,5 +27,5 @@
 *.out
 *.app
 
-PhoneBook/Debug/
-PhoneBook/PhoneBook.sdf
+**/Debug
+*.sdf
