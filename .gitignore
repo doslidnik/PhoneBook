@@ -27,5 +27,6 @@
 *.out
 *.app
 
-PhoneBook/Debug/
-PhoneBook/PhoneBook.sdf
+#Project c++
+/Debug/
+*.sdf
