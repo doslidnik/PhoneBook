@@ -25,13 +25,9 @@
 *.out
 *.app
 
-<<<<<<< HEAD
 #Project c++
-**/Debug
-*.sdf
-=======
 **/Debug
 *.sdf
 *.opendb
 *.opensdf
->>>>>>> develop
+
